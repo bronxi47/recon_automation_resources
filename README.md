@@ -1,6 +1,16 @@
 # Recursos del Módulo Reconocimiento y Automatización
 Este es un repo con recursos que menciono en el módulo Reconocimiento y Automatización del curso de Bug Bounty de la Hackademy de Ekoparty.
 
+## Instalar GO
+La mayoría de las tools están en Golang, si no lo tenés instalado, debés instalarlo como primer paso. Para ello te dejo dos opciones, un writeup paso a paso, si no sos de instalar recursos en la línea de comandos:
+-> https://splitunknown.medium.com/installing-go-golang-on-linux-macos-and-windows-a-step-by-step-guide-7efe0643123b
+
+La otra opción, si tenés experiencia, podés hacerlo directamente entrando al repo de Go e instalarlo desde allí:
+-> https://go.dev/doc/install
+
+En ambos casos, ten en cuenta la versión que descargaste y la versión que ejecutás en la línea de comandos. Estas deben coincidir (digo, por si copías y pegas puede ser un error recurrente).
+
+
 # Tools
 
 ## subfinder
